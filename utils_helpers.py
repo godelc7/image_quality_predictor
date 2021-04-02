@@ -8,7 +8,7 @@ Project: Hobby project
 
 File:    utils_helpers.py
 
-Author:  Project Owner (fake-name@fake-email.com)
+Author:  Project Owner (fake-name@fake-domain.com)
 
 Date:    2020/05/07 (created)
          2021/01/23 (last modification)
